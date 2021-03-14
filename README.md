@@ -6,7 +6,7 @@
 
 License: https://github.com/ash-ishot/rbot/blob/stable/LICENSE
 
-**Please note we are not responsible for if anything happens to your bot account.** It is your responsibility to keep the cookie and token away from anyone you don't trust. qbot uses noblox.js to interact with Roblox API with your bot cookie, and discord.js to interact with the Discord API with your bot token. ***DO NOT SHARE YOUR .ENV FILE WITH ANYONE!***
+**Please note we are not responsible for if anything happens to your bot account.** It is your responsibility to keep the cookie and token away from anyone you don't trust. rbot uses noblox.js to interact with Roblox API with your bot cookie, and discord.js to interact with the Discord API with your bot token. ***DO NOT SHARE YOUR .ENV FILE WITH ANYONE!***
 
 Please also note that Discord has a TOS for its API: https://discord.com/developers/docs/legal
  
